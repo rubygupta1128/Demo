@@ -17,6 +17,8 @@ public class day4 {
 		
 	
 	System.out.println("Mobileloginhomeloan completed");
+	System.out.println("Hello11");
+	System.out.println("Hello22");
 	
 	}
 	
